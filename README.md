@@ -21,13 +21,15 @@ O **O Conversor de moedas simples** é uma aplicação simples e intuitiva para 
 
 1. Clone este repositório:
 
-````bash
+```bash
 git clone https://github.com/seuusuario/currency-converter-app.git
+```
 
 2. Navegue até o diretório do projeto:
 
 ```bash
 cd currency-converter-app
+```
 
 3. Abra o arquivo index.html no seu navegador.
 
@@ -37,7 +39,7 @@ cd currency-converter-app
 
 1. Insira um valor no campo **USD** para converter o valor automaticamente para **BRL**.
 2. Insira um valor no campo **BRL** para converter o valor automaticamente para **USD**.
-Os valores serão atualizados em tempo real e formatados conforme o padrão monetário.
+   Os valores serão atualizados em tempo real e formatados conforme o padrão monetário.
 
 # 🔄 Como Funciona
 
@@ -45,15 +47,19 @@ A aplicação utiliza a **API AwesomeAPI** para buscar a taxa de câmbio atual e
 
 ## Exemplo de Requisição à API
 
-```bash
+```Javascript
 async function getExchangeRate() {
   const url = 'https://economia.awesomeapi.com.br/last/USD-BRL';
   const response = await fetch(url);
   const data = await response.json();
   return data.USDBRL.bid;  // Taxa de câmbio atual USD/BRL
 }
+```
 
 ## ⚠️ Tratamento de Erros
 
 O aplicativo inclui um tratamento básico de erros usando `try-catch` nas requisições à API, garantindo que, caso a API esteja offline ou a conexão falhe, o usuário seja notificado.
-````
+
+```
+
+```
