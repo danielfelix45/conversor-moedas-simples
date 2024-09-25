@@ -24,6 +24,7 @@ O **Conversor de moedas simples** é uma aplicação simples e intuitiva para co
 
 ````bash
 git clone https://github.com/seuusuario/conversor-moedas-simples.git
+```
 
 2. Navegue até o diretório do projeto:
 
