@@ -1,7 +1,8 @@
 # 💱 Conversor de Moedas Simples
 
-📄 Descrição
-O **O Conversor de moedas simples** é uma aplicação simples e intuitiva para conversão de moedas em tempo real, utilizando a **API AwesomeAPI.** Com foco em converter **dólares americanos (USD)** para **reais brasileiros (BRL)** e vice-versa, o projeto foi desenvolvido com **JavaScript, HTML e CSS,** proporcionando uma interface amigável e uma experiência fluida para o usuário.
+## 📄 Descrição
+
+O **Conversor de moedas simples** é uma aplicação simples e intuitiva para conversão de moedas em tempo real, utilizando a **API AwesomeAPI.** Com foco em converter **dólares americanos (USD)** para **reais brasileiros (BRL)** e vice-versa, o projeto foi desenvolvido com **JavaScript, HTML e CSS,** proporcionando uma interface amigável e uma experiência fluida para o usuário.
 
 ## 🚀 Funcionalidades
 
@@ -21,15 +22,14 @@ O **O Conversor de moedas simples** é uma aplicação simples e intuitiva para 
 
 1. Clone este repositório:
 
-```bash
-git clone https://github.com/seuusuario/currency-converter-app.git
-```
+````bash
+git clone https://github.com/seuusuario/conversor-moedas-simples.git
 
 2. Navegue até o diretório do projeto:
 
 ```bash
-cd currency-converter-app
-```
+cd conversor-moedas-simples
+````
 
 3. Abra o arquivo index.html no seu navegador.
 
