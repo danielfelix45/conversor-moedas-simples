@@ -22,7 +22,7 @@ O **Conversor de moedas simples** é uma aplicação simples e intuitiva para co
 
 1. Clone este repositório:
 
-````bash
+```bash
 git clone https://github.com/seuusuario/conversor-moedas-simples.git
 ```
 
@@ -30,7 +30,7 @@ git clone https://github.com/seuusuario/conversor-moedas-simples.git
 
 ```bash
 cd conversor-moedas-simples
-````
+```
 
 3. Abra o arquivo index.html no seu navegador.
 
